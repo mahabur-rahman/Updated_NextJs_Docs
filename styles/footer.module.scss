@@ -1,0 +1,17 @@
+#footerId {
+    text-align: center;
+    .bg {
+        background-color: #000;
+        padding: 1rem;
+    }
+    .change {
+        color: "#fff";
+    }
+    p.change {
+        margin-bottom: 0;
+        color: #fff !important;
+        a {
+            color: red;
+        }
+    }
+}
